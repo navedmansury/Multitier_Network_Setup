@@ -20,7 +20,7 @@ So here are the steps for proper understanding
 - Launch an ec2 instance which has MYSQL setup already with security group allowing  port 3306 in private subnet so that our wordpress vm can connect with the same. Also attach the key with the same.
 <img src="https://user-images.githubusercontent.com/64575592/120079152-40556180-c0d0-11eb-944e-57167a6d5bad.png">
 
-# _Wordpress instance has to be part of public subnet so that our client can connect our site.mysql instance has to be part of private  subnet so that outside world can't connect to it._
+#### _Wordpress instance has to be part of public subnet so that our client can connect our site.mysql instance has to be part of private  subnet so that outside world can't connect to it._
 
 #### Initialize a working directory containing Terraform configuration files
 `terraform init`
