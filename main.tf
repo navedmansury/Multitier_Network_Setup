@@ -77,6 +77,4 @@ connection {
   command = "echo ${aws_instance.web.public_ip} > host_public_ip.txt"
     }
 
-
-
 }
