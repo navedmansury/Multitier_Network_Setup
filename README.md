@@ -1,6 +1,6 @@
-# Creating and Managing Cloud infrastructure using Terraform
+# Anonymous Voting App
 
-This Infrastructure includes Wordpress instance to be part of public subnet so that our client can connect our site and mysql instance to be part of private subnet so that outside world can't connect to it
+This is a React-native and NodeJs App for carrying out elections in the college.
 <p align="center">
 <img src="https://github.com/himanshu1510/Multitier_Network_Setup/blob/main/Images/1_9lEP5_-xZ-PqXglMIxNGeA.png" alt="alt text">
 </p>
